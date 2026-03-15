@@ -28,6 +28,4 @@ python3 project5_portfolio.py
 Python · NumPy · SciPy · Matplotlib
 ``
 
-Once all 7 quant repos are created your repositories page will show:
 ```
-7 repositories
